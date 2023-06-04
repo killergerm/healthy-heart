@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+   
+}
+.body{
+display: flex;
+justify-content: center;
+margin: 50px auto 10px auto;
+gap: 50px;
+}
+img{
+    height: 700px;
+}
+.script{
+    margin-top: 100px;
+}
